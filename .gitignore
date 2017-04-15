@@ -229,3 +229,4 @@ $RECYCLE.BIN/
 .idea/compiler.xml
 .idea/encodings.xml
 .idea/vcs.xml
+kotlinc.xml
