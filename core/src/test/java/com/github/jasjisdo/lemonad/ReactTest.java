@@ -1,5 +1,7 @@
 package com.github.jasjisdo.lemonad;
 
+import com.github.jasjisdo.lemonad.react.React;
+import com.github.jasjisdo.lemonad.react.Reflex;
 import org.junit.Test;
 
 import java.util.function.Predicate;
