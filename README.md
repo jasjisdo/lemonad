@@ -4,4 +4,4 @@
 
 A library which provides monads to increase code style
 
-Please use [jitPack.io](https://jitpack.io/#jasjisdo/lemonad/master) to import it in your build. 
+Please use [JitPack.io](https://jitpack.io/#jasjisdo/lemonad/master) to import it in your build. 
