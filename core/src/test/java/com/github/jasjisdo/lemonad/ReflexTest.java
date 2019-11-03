@@ -1,5 +1,6 @@
 package com.github.jasjisdo.lemonad;
 
+import com.github.jasjisdo.lemonad.react.React;
 import org.junit.Before;
 import org.junit.Test;
 

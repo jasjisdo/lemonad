@@ -1,4 +1,4 @@
-package com.github.jasjisdo.lemonad;
+package com.github.jasjisdo.lemonad.react;
 
 import java.util.Objects;
 import java.util.function.Predicate;

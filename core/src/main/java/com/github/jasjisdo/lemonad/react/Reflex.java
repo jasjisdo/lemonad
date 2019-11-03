@@ -1,4 +1,4 @@
-package com.github.jasjisdo.lemonad;
+package com.github.jasjisdo.lemonad.react;
 
 import java.io.Serializable;
 import java.util.function.Consumer;
